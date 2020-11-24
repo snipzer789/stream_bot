@@ -1,0 +1,12 @@
+module.exports = {
+  commands: '',
+  expectedArgs: '',
+  permissionError: 'you need admin permissions',
+  minArgs: 0,
+  maxArgs: 0,
+  callback: (message, arguments, text) =>{
+
+  },
+  permissions: [],
+  requiredRoles: []
+}
